@@ -1,4 +1,4 @@
-# How to upload files or images by Node.js and Express framework?
+# How to upload files or images by Node.js and Express framework REST API?
 
 ![Alt Upload files](/screenshots/cloud_upload.gif "Upload files")
 
