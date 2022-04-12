@@ -1,4 +1,8 @@
 # How to upload files or images by Node.js and Express framework?
+
+![Alt Upload files](/screenshots/cloud_upload.gif "Upload files")
+
+
 This project is a demonstration about how to upload multiple files or images by Node.js and Express framework API. I am using **Multer** for uploading file/files.
  <br>
 
